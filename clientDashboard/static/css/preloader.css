@@ -1,0 +1,40 @@
+#preloader{
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: #fff;
+  z-index: 999999;
+  text-align:center;
+}
+
+#quotes{
+    position: fixed;
+    display: block;
+    top: 42%;
+    left: 10%;
+    right: 10%;
+    margin: 0 auto;
+    opacity: 1;
+    visibility: visible;
+    -webkit-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+    z-index: 9999999999;
+    color: #122e54;
+    font-size: 17px;
+    /*font-family: 'Josefin Sans', sans-serif; */
+}
+
+
+
+@media (max-width: 500px){
+
+  #status{top:45%}
+
+}
+
+@media (max-width:768px) {
+
+  #status{top:35%}
+}

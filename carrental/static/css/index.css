@@ -1,0 +1,418 @@
+* {
+    font-family: 'Sirin Stencil', cursive;
+    font-style: normal;
+}
+
+
+body {
+    font-family: 'Sirin Stencil', cursive;
+    font-style: normal;
+    width: 100%;
+}
+
+
+/* Bootstrap Navbar */
+
+
+header .nav .nav-item .nav-link {
+    font-size: 18px;
+}
+
+
+header .nav .nav-item .dropdown-menu .dropdown-item {
+    font-size: 18px;
+}
+
+
+/* Header Part */
+
+#hedr {
+    background: url("../images/header-bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+    min-height: 600px;
+}
+
+
+#hedr .hedr .crdColor {
+    background-color: #ffffff;
+    padding: 5px;
+    border-radius: 25px;
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+    -ms-border-radius: 25px;
+    -o-border-radius: 25px;
+}
+
+
+#hedr .hedr .hedrh2 {
+    font-family: 'Sirin Stencil', cursive;
+    font-style: normal;
+    font-size: 50px;
+}
+
+
+#hedr .hedr .card .card-body .searchCar .form-group label {
+    font-size: 16px;
+    color: #000000;
+}
+
+#hedr .hedr .card .card-body .searchCar .form-group input {
+    font-size: 18px;
+    color: #000000;
+    text-align: center;
+}
+
+#hedr .hedr .card .card-body .searchCar .form-group input::-webkit-input-placeholder {
+    font-size: 16;
+    color: #000000;
+}
+#hedr .hedr .card .card-body .searchCar .form-group input::-moz-placeholder {
+    font-size: 16;
+    color: #000000;
+}
+
+#hedr .hedr .card .card-body .searchCar .form-group button {
+    font-family: 'Sirin Stencil', cursive;
+    font-style: normal;
+    color: #000000;
+    text-transform: capitalize;
+    font-size: 18px;
+}
+
+
+/* Overriding MaterializeCSS DatePicker */
+.datepicker-table td.is-outside-current-month, .datepicker-table td.is-disabled {
+    background-color: rgb(128,128,128) !important;
+}
+
+
+/* Get Our Rental Cars */
+
+
+#gorc .gorc .gorch2 {
+    font-family: 'Sirin Stencil', cursive;
+    font-style: normal;
+    text-transform: capitalize;
+}
+
+
+#gorc .gorc .gorch5 {
+    font-family: 'Sirin Stencil', cursive;
+    font-style: normal;
+}
+
+#gorc .gorc .card .card-body .trans {
+    font-family: 'Sirin Stencil', cursive;
+    font-style: normal;
+    font-size: 15px;
+}
+
+#gorc .gorc .card .card-body .fuel {
+    font-family: 'Sirin Stencil', cursive;
+    font-style: normal;
+    font-size: 15px;
+}
+
+#gorc .gorc .card .card-body .seatCap {
+    font-family: 'Sirin Stencil', cursive;
+    font-style: normal;
+    font-size: 15px;
+}
+
+#gorc .gorc .card .card-body .seatCap img {
+    width: 14px;
+}
+
+#gorc .gorc .card .card-footer .extprice {
+    font-family: 'Sirin Stencil', cursive;
+    font-style: normal;
+    font-size: 16px;
+}
+
+#gorc .gorc .card .card-footer .price {
+    font-family: 'Sirin Stencil', cursive;
+    font-style: normal;
+    font-size: 16px;
+}
+
+#gorc .gorc .card .card-footer a button {
+    text-transform: capitalize;
+}
+
+#gorc .gorc .card .card-footer a:hover {
+    text-decoration-line: none;
+    -webkit-text-decoration-line: none;
+    -moz-text-decoration-line: none;
+}
+
+/* Why Choose Us */
+
+#wcu .wcu .wcuh2 {
+    font-family: 'Sirin Stencil', cursive;
+    font-style: normal;
+}
+
+
+#wcu .wcu .card .card-header .wcuh4 {
+    font-family: 'Sirin Stencil', cursive;
+    font-style: normal;
+}
+
+
+#wcu .wcu .card .card-body .wcup {
+    font-family: 'Sirin Stencil', cursive;
+    font-style: normal;
+    font-size: 14px;
+    text-align: justify;
+}
+
+
+/* Car Booking Process */
+#process .process .processOne .media {
+    border: 1px dashed #ff0000;
+    padding: 5%;
+}
+
+#process .process .processOne i {
+    font-size: 45px;
+}
+
+#process .process .processOne h3 {
+    font-family: 'Sirin Stencil', cursive;
+	color: #ffffff;
+	font-size: 35px;
+	/* left: 50%;
+	top: 50%;
+	-webkit-transform: translate(-25%, -25%);
+	-ms-transform: translate(-25%, -25%);
+	transform: translate(-25%, -25%); */
+}
+
+#process .process .processOne p {
+    font-family: 'Sirin Stencil', cursive;
+    font-size: 20px;
+    text-transform: capitalize;
+}
+
+
+/* Footer */
+
+
+#location h5 {
+    font-family: 'Sirin Stencil', cursive;
+    font-style: normal;
+}
+
+
+#footer {
+    background-image: url("https://image.freepik.com/free-vector/white-background-with-3d-hexagonal-pattern-design_1017-28443.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+}
+
+
+#footer .footer #location #todayTime {
+    font-family: 'Sirin Stencil', cursive;
+    font-style: normal;
+}
+
+
+#footer .footer h2 {
+    font-family: 'Sirin Stencil', cursive;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+}
+
+
+#footer .footer p {
+    font-size: 16px;
+}
+
+
+#footer .footer .crLogo {
+    width: 125px;
+}
+
+
+#footer .footer h6 {
+    font-family: 'Sirin Stencil', cursive;
+    font-style: normal;
+    font-size: 16px;
+}
+
+
+#footer .footer h6 a {
+    color: rgb(0, 0, 0);
+    font-size: 16px;
+}
+
+
+#footer .footer h6 a:hover {
+    text-decoration-line: none;
+    -moz-text-decoration-line: none;
+    -webkit-text-decoration-line: none;
+    -o-text-decoration-line: none;
+    color: rgb(0, 0, 255);
+    transition: all .3s ease 0s;
+    -webkit-transition: all .3s ease 0s;
+    -moz-transition: all .3s ease 0s;
+    -ms-transition: all .3s ease 0s;
+    -o-transition: all .3s ease 0s;
+}
+
+
+#footer .footer .social {
+    padding: 0;
+    list-style: outside none none;
+    display: block;
+}
+
+
+#footer .footer .social li {
+    display: inline-block;
+    text-align: center;
+    margin: 0 14px;
+}
+
+
+#footer .footer .social li a {
+    border: 1px solid rgb(0, 0, 0);
+    display: block;
+    font-size: 16px;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+    width: 30px;
+    transform: rotate(45deg);
+    -moz-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    -o-transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+    transition: all .3s ease 0s;
+    -webkit-transition: all .3s ease 0s;
+    -moz-transition: all .3s ease 0s;
+    -o-transition: all .3s ease 0s;
+}
+
+
+#footer .footer .social li a i {
+    transform: rotate(-45deg); 
+}
+
+
+#footer .footer .social li a:hover {
+    background: #222 none repeat scroll 0 0;
+    color: #ffffff;
+}
+
+
+#footer .footer form input[type="email"] {
+    text-align: center;
+    font-size: 17px;
+}
+
+
+#footer .footer form .btn {
+    font-family: 'Sirin Stencil', cursive;
+    font-style: normal;
+    text-transform: capitalize;
+    font-size: 18px;
+}
+
+
+#footer .footer h4 {
+    font-family: 'Sirin Stencil', cursive;
+    font-style: normal;
+}
+
+
+
+
+
+/* Customized Alert Message */
+
+.alert-error {
+    color: #721c24;
+    background-color: #f8d7da;
+    border-color: #f5c6cb;
+}
+
+.alert-error hr {
+    border-top-color: #f1b0b7;
+}
+
+.alert-error .alert-link {
+    color: #491217;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Media Queries */
+
+
+@media (max-width: 768px) {
+
+    * {
+        font-family: 'Sirin Stencil', cursive;
+        font-style: normal;
+    }
+
+    body {
+        font-family: 'Sirin Stencil', cursive;
+        font-style: normal;
+        width: 100%;
+    }
+
+
+    #hedr {
+        margin-top: 17%;
+    }
+
+
+    #hedr .hedr .searchCar .form-group label {
+        margin-top: 5%;
+    }
+
+    #process .process .processOne .media {
+        margin-bottom: 10%;
+    }
+
+    #process .process .processOne .media .media-body h3 {
+        margin-top: 15%;
+    }
+
+    #gorc .gorc .card .card-body .trans {
+        margin-top: 5%;
+    }
+
+    #gorc .gorc .card .card-body .fuel {
+        margin-top: 5%;
+    }
+
+    #gorc .gorc .card .card-body .seatCap {
+        margin-top: 5%;
+    }
+
+    #gorc .gorc .card .card-footer .price {
+        margin-top: 5%;
+    }
+
+    
+
+}

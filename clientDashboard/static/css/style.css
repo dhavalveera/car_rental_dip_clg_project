@@ -1,0 +1,78 @@
+* {
+  font-family: 'Sirin Stencil', cursive;
+  font-style: normal;
+}
+
+body {
+  font-family: 'Sirin Stencil', cursive;
+  font-style: normal;
+}
+
+/* Navbar */
+
+
+header nav .nav-wrapper #logo {
+  width: 12%;
+}
+
+
+header nav .nav-wrapper #dropdownImg {
+  width: 25%;
+}
+
+
+header nav li a {
+  color: rgb(0,0,0);
+  font-size: 18px;
+}
+
+header nav li a:hover {
+  text-decoration-line: none;
+  color: rgb(0,0,0);
+}
+
+
+header nav {
+  background-color: transparent;
+}
+
+
+header #dropdown1 li a {
+  color: rgb(0, 0, 0);
+}
+
+
+
+/* Customized Alert Message */
+
+.alert-error {
+  color: #721c24;
+  background-color: #f8d7da;
+  border-color: #f5c6cb;
+}
+
+.alert-error hr {
+  border-top-color: #f1b0b7;
+}
+
+.alert-error .alert-link {
+  color: #491217;
+}
+
+
+
+
+
+@media (max-width: 768px) {
+
+    header nav {
+      height: 0px;
+    }
+
+    header nav .nav-wrapper #logo {
+      width: 40%;
+    }
+
+
+
+}
