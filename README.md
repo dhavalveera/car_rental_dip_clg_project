@@ -1,4 +1,4 @@
-# Capstone Project -> Car Rental
+# Car Rental Website - Diploma CE Final Semester Project
 
 * * *
 
